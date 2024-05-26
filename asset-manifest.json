@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/simple-timesheets/static/css/main.e6c13ad2.css",
+    "main.js": "/simple-timesheets/static/js/main.4b9c06b3.js",
+    "index.html": "/simple-timesheets/index.html",
+    "main.e6c13ad2.css.map": "/simple-timesheets/static/css/main.e6c13ad2.css.map",
+    "main.4b9c06b3.js.map": "/simple-timesheets/static/js/main.4b9c06b3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.4b9c06b3.js"
+  ]
+}
