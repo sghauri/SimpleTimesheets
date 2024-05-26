@@ -7,9 +7,9 @@ function App() {
       <main>
         <p>Main Section</p>
       </main>
-      <Footer>
+      <footer>
         <i>Footer</i>
-      </Footer>
+      </footer>
     </div>
   );
 }
