@@ -1,7 +1,7 @@
 {
   "name": "simple-timesheets",
   "version": "0.1.0",
-  "homepage": "https://sghauri.github.io/simple-timesheets",
+  "homepage": "https://sghauri.github.io/SimpleTimesheets",
   "private": true,
   "dependencies": {
     "react": "^18.3.1",
